@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="download/Hub.zip"><b>⬇&nbsp; DOWNLOAD THE HUB</b></a>
+  <a href="download/Mani%20Deiz%20-%20Hub.zip"><b>⬇&nbsp; DOWNLOAD THE HUB</b></a>
   &nbsp;·&nbsp;
   <a href="https://manideiz.github.io/">manideiz.github.io</a>
 </p>
@@ -42,7 +42,7 @@ Every download is checked against the fingerprint published with the list before
 
 Once, on your computer:
 
-1. Download **[Hub.zip](download/Hub.zip)** and unzip it.
+1. Download **[Mani Deiz - Hub.zip](download/Mani%20Deiz%20-%20Hub.zip)** and unzip it.
 2. Copy the folder found inside `VST2 Plugins` into the `VST2 Plugins` folder at the root of your SD card or USB drive
    (create that folder if it is not there). Do not rename it.
 3. On the MPC: **Preferences → Enhancements (Beta)** (scroll the list on the left) → switch on *Enable Enhancements*
