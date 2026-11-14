@@ -51,7 +51,7 @@ Once, on your computer:
 Then, on the MPC:
 
 4. Connect the MPC to the network (Wi-Fi, or an Ethernet cable on the MPCs without Wi-Fi).
-5. Make a plugin track and pick **Hub**, under **MANI DEÏZ**.
+5. Make a plugin track and pick **Mani Deïz Hub**, under **MANI DEÏZ**.
 6. Touch **INSTALL** on the plugins you want, then restart the MPC.
 
 ## Which MPCs
