@@ -60,6 +60,14 @@ Any standalone MPC running **MPC OS 3.10.1 or later**, connected to a network. T
 MPCs (Live III, XL) and for the 32-bit ones (Live, Live II, One, One+, X, X SE, Key 37, Key 61, Force).
 If something does not work on yours, send `hub_log.txt` from the Hub's folder on your drive.
 
+## Found a bug?
+
+Write to **[manideiz.plugins@proton.me](mailto:manideiz.plugins@proton.me)** with:
+
+- your MPC model and its MPC OS version,
+- what you did and what happened,
+- the file `hub_log.txt` from the plugin folder on your drive (`VST2 Plugins`).
+
 ## Rights
 
 The Hub is **free to use**. It is **© 2026 MANI DEÏZ, all rights reserved**: please link to this page rather than
