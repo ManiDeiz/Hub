@@ -60,6 +60,14 @@ Any standalone MPC running **MPC OS 3.10.1 or later**, connected to a network. T
 MPCs (Live III, XL) and for the 32-bit ones (Live, Live II, One, One+, X, X SE, Key 37, Key 61, Force).
 If something does not work on yours, send `hub_log.txt` from the Hub's folder on your drive.
 
+## Drum kits
+
+Tab **DRUM KITS**: the drum kits of MANI DEÏZ (Base, Freaky Joe, NY, LoFi Twelve, Mani Deïz, The House), 9,90 € each.
+Touch **PREVIEW** to hear a kit. Touch **BUY**: scan the QR code with your phone and pay (card, Apple Pay, Google Pay
+or PayPal, by Lemon Squeezy). The Hub downloads the kit by itself into `MANI DEIZ Kits` at the root of your drive:
+a folder of WAVs, one folder per family. No camera? Go to [manideiz.github.io/buy](https://manideiz.github.io/buy/)
+and type the code shown on the MPC.
+
 ## Found a bug?
 
 Write to **[manideiz.plugins@proton.me](mailto:manideiz.plugins@proton.me)** with:
